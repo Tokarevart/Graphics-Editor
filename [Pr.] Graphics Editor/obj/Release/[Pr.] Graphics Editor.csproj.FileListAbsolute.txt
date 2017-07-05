@@ -1,0 +1,11 @@
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Release\[Pr.] Graphics Editor.exe.config
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Release\[Pr.] Graphics Editor.exe
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Release\[Pr.] Graphics Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\_Pr.__Graphics_Editor.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\_Pr.__Graphics_Editor.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\[Pr.] Graphics Editor.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\[Pr.] Graphics Editor.exe
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\[Pr.] Graphics Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\_Pr.__Graphics_Editor.FormSize.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\_Pr.__Graphics_Editor.FormStr.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Release\[Pr.] Graphics Editor.csprojResolveAssemblyReference.cache

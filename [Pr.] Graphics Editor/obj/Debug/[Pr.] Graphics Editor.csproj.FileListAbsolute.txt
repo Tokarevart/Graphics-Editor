@@ -1,0 +1,9 @@
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Debug\[Pr.] Graphics Editor.exe.config
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Debug\[Pr.] Graphics Editor.exe
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\bin\Debug\[Pr.] Graphics Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\_Pr.__Graphics_Editor.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\_Pr.__Graphics_Editor.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\[Pr.] Graphics Editor.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\[Pr.] Graphics Editor.exe
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\[Pr.] Graphics Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Graphics Editor\[Pr.] Graphics Editor\obj\Debug\[Pr.] Graphics Editor.csprojResolveAssemblyReference.cache
